@@ -1,6 +1,1 @@
-Quicky-Tap-Replica
-==================
-Do NOT Re-make this game or the like and publish it on the app store,
-and then claim owner age of it. You did not make this, you will not steal this.
-As I created this game for entertainment and providing the code for learning purposes only, 
-if you re-make this in your own way or not, you will be stealing.
+This is an application made in Objective-C 2.0 on xCode 5. This may not work with any newer versions of xCode as well as any iOS greater than 7.
